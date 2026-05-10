@@ -1,8 +1,17 @@
-# React + Vite
+# 🌐 Nextcent Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+โปรเจกต์พัฒนาหน้า Landing Page ส่วน Front-end ด้วย **React** และ **Tailwind CSS** โดยอ้างอิงดีไซน์จาก Figma
 
-Currently, two official plugins are available:
+### 🛠️ เครื่องมือที่ใช้
+- **React** (Front-end Development)
+- **Tailwind CSS** (Grid & Flexbox Layout)
+- **React Icons**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 สิ่งที่ได้เรียนรู้
+- การจัด Layout หน้าเว็บให้รองรับ Responsive
+- การจัดการ Absolute Position สำหรับดีไซน์ที่ซ้อนทับกัน
+- การแบ่ง Component เพื่อให้ Code จัดการง่าย
+
+### 🔗 ข้อมูลอ้างอิง
+- **Design:** [Figma Community](https://www.figma.com/community/file/1222060007934600841)
+- **Original Source:** [nextcent-starter](https://github.com/ohmiler/nextcent-starter)
